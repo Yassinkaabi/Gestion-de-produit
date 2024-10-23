@@ -1,0 +1,3 @@
+com\poly\productmanagement\Controllers\categorieController.class
+com\poly\productmanagement\service\IServiceProduct.class
+com\poly\productmanagement\service\ServiceProduct.class
