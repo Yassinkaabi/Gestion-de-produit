@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b40abfb-b82f-428e-9806-583fb9e91404" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/poly/blogmanagment/entities/user/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/poly/blogmanagment/entities/user/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/Controllers/categorieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/Controllers/productController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/ProductmanagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/poly/blogmanagment/BlogmanagmentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/entities/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/repository/productRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/service/IServiceProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/productmanagement/service/ServiceProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/AddProduct.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/poly/productmanagement/ProductmanagementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/poly/blogmanagment/BlogmanagmentApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/Controllers/categorieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/Controllers/productController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/ProductmanagementApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/entities/Category$CategoryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/entities/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/entities/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/repository/CategoryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/repository/productRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/service/IServiceProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/productmanagement/service/ServiceProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/AddProduct.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/tt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/poly/productmanagement/ProductmanagementApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oC7VibWWyLrUZmryZCCyQ7rrG5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BlogmanagmentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProductmanagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Users/maison info/Desktop/spring boot/blogApp - Copie&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Users\maison info\Desktop\spring boot\blogApp\src\main\resources\templates\admin" />
+      <recent name="F:\Users\maison info\Desktop\spring boot\blogApp\src\main\resources\templates" />
+      <recent name="F:\Users\maison info\Desktop\spring boot\Gestion-de-produit\src\main\java\com\poly\productmanagement\entities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\maison info\Desktop\spring boot\blogApp\src\main\resources\templates" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.poly.blogmanagment.security" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.poly.blogmanagment.security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogmanagmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Blogmanagment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.poly.blogmanagment.BlogmanagmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b40abfb-b82f-428e-9806-583fb9e91404" name="Changes" comment="" />
+      <created>1730361734656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730361734656</updated>
+      <workItem from="1730361736914" duration="67000" />
+      <workItem from="1733381726701" duration="4085000" />
+      <workItem from="1733404659548" duration="8798000" />
+      <workItem from="1733929817433" duration="12301000" />
+      <workItem from="1733999726341" duration="772000" />
+      <workItem from="1734000827746" duration="47000" />
+      <workItem from="1734001878166" duration="76000" />
+      <workItem from="1734016848259" duration="1029000" />
+      <workItem from="1734111060717" duration="131000" />
+      <workItem from="1734218220334" duration="9291000" />
+      <workItem from="1734276986930" duration="7645000" />
+      <workItem from="1734300084686" duration="11004000" />
+      <workItem from="1734354147984" duration="11331000" />
+      <workItem from="1734386796273" duration="12613000" />
+      <workItem from="1734450411948" duration="8894000" />
+      <workItem from="1734516183516" duration="11262000" />
+      <workItem from="1734548845171" duration="4711000" />
+      <workItem from="1734553665580" duration="7608000" />
+      <workItem from="1734596062529" duration="1222000" />
+      <workItem from="1734597715102" duration="25119000" />
+      <workItem from="1734640655874" duration="10502000" />
+      <workItem from="1734654545332" duration="265000" />
+      <workItem from="1734705568153" duration="4889000" />
+      <workItem from="1734728523187" duration="16718000" />
+      <workItem from="1734825942591" duration="11824000" />
+      <workItem from="1734880636635" duration="1195000" />
+      <workItem from="1734912568528" duration="7531000" />
+      <workItem from="1734990576647" duration="1536000" />
+      <workItem from="1735067934996" duration="1190000" />
+      <workItem from="1735140760137" duration="1193000" />
+      <workItem from="1735511674116" duration="7762000" />
+      <workItem from="1736369425135" duration="4457000" />
+      <workItem from="1736379679148" duration="2162000" />
+      <workItem from="1736392399880" duration="1297000" />
+      <workItem from="1736411473335" duration="3843000" />
+      <workItem from="1736423974320" duration="202000" />
+      <workItem from="1736548469677" duration="1466000" />
+      <workItem from="1736552824151" duration="296000" />
+      <workItem from="1736560134873" duration="3729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

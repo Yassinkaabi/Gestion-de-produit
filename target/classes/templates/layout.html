@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${title}">Blog Management</title>
+</head>
+<body>
+<!-- Navbar -->
+<nav>
+    <ul>
+        <li><a href="/" th:href="@{/}">Accueil</a></li>
+        <li><a href="/posts" th:href="@{/posts}">Articles</a></li>
+        <li><a href="/categories" th:href="@{/categories}">Catégories</a></li>
+        <li><a href="/tags" th:href="@{/tags}">Tags</a></li>
+        <li><a href="/login" th:href="@{/login}">Connexion</a></li>
+    </ul>
+</nav>
+
+<!-- Section dynamique -->
+<section layout:fragment="content"></section>
+
+<!-- Footer -->
+<footer>
+    <p>© 2024 Blog Management. Tous droits réservés.</p>
+</footer>
+</body>
+</html>

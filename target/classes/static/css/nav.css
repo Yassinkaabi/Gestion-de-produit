@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4691C5;
+    color: white;
+    padding: 15px 10px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #DCEBF2;
+    color: black;
+}
+
+main {
+    padding: 20px;
+}
+
+.container {
+    margin: 20px auto; /* Add margin around the container */
+    max-width: 1200px; /* Optional: Limit the width of the container */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; /* Ensure the cards wrap to the next line on smaller screens */
+    justify-content: center; /* Center the cards horizontally */
+}
+
+.col-md-4 {
+    flex: 1 1 calc(33.333% - 20px); /* 3 cards per row with spacing */
+    margin: 10px; /* Add spacing between cards */
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: white;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
