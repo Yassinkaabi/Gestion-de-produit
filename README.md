@@ -12,7 +12,6 @@
    - [CI/CD avec Jenkins](#cicd-avec-jenkins)
 5. [Utilisation](#utilisation)
 6. [Commandes Utiles](#commandes-utiles)
-7. [Extension (Bonus)](#extension-bonus)
 
 ---
 
