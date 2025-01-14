@@ -211,6 +211,8 @@ spec:
            stage('Deploy to Kubernetes') {
                steps {
                    sh 'kubectl apply -f k8s-deployment.yml'
+                   sh 'kubectl apply -f k8s/k8s-service.yml'
+                   sh 'kubectl apply -f k8s/mysql-deployment.yml'
                }
            }
        }
@@ -242,10 +244,6 @@ spec:
   kubectl logs <nom-du-pod>
   ```
 
-## Extension (Bonus)
-
-- **Déploiement sur AKS/EKS** : Configurez les credentials pour accéder au cluster et appliquez les manifestes.
-- **ArgoCD** : Implémentez GitOps pour synchroniser automatiquement les modifications depuis GitHub.
 
 ---
 
